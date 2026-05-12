@@ -2,3 +2,5 @@
 
 Github Pages Website:
 https://simgowda.github.io/Lab6_Starter/
+
+Completed by Simar Gowda
